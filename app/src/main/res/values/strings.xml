@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WA Unknown</string>
+    <string name="title_activity_admob">MainActivity</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-7759533291032317/3237597693</string>
+    <string name="title_activity_main2">MainActivity</string>
+
+
+</resources>
